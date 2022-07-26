@@ -2,6 +2,14 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Full-stack developer from Russia 🇷🇺</h3>
 
+<h2>About me</h2>
+Love code. Code love me. :) 
+
+<h2>Contacts</h2>
+
+[![Telegram](https://img.shields.io/badge/Telegram-blue?style=flat-square&logo=Telegram)](https://t.me/FabulouS01)
+
+<hr align="center" size="2" color="#ff0000" />
 
 | Left-aligned | Git | 
 | :---:        |     :---:      | 
